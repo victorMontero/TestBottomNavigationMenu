@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/compras"
+        android:title="Compras"
+        android:icon="@mipmap/cart"/>
+
+    <item android:id="@+id/listas"
+        android:title="Listas Salvas"
+        android:icon="@mipmap/list"/>
+
+    <item android:id="@+id/promocoes"
+        android:title="Promos"
+        android:icon="@mipmap/hot"/>
+
+</menu>
